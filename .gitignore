@@ -1,0 +1,13 @@
+/.venv/
+/.old_venv/
+
+/local/
+__pycache__/
+
+*.pt
+
+/src/single_fold_sota.py
+run_ADF_split_sota.sh
+/src/LCADNet.py
+
+kfold_crossval.sh

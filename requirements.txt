@@ -1,0 +1,10 @@
+asrpy==0.0.3
+mne==1.8.0
+mne_bids==0.16.0
+numpy==1.2.3
+scikit-learn==1.5.2
+scipy==1.14.1
+tensorboard==2.18.0
+torch==2.5.1
+torchvision==0.20.1
+torch-geometric==2.6.1
